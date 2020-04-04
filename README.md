@@ -1,2 +1,2 @@
 # renpygame
-# demo 工程文件，包括音频视频图像，需要renpy引擎打开
+# （demo）Project files. Including audio and images, should be opened by renpy engine.
