@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-11-26T01:38:08.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="jyU9xjlPc_SZxZTncDix" version="21.2.9" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1221" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fxxQHV47RKdS2-V1ZT3d-1" value="Intention" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fxxQHV47RKdS2-V1ZT3d-2" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="fxxQHV47RKdS2-V1ZT3d-1">
+          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fxxQHV47RKdS2-V1ZT3d-3" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="fxxQHV47RKdS2-V1ZT3d-1">
+          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fxxQHV47RKdS2-V1ZT3d-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="fxxQHV47RKdS2-V1ZT3d-1">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fxxQHV47RKdS2-V1ZT3d-6" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fxxQHV47RKdS2-V1ZT3d-8" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="620" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fxxQHV47RKdS2-V1ZT3d-7" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="740" width="480" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
